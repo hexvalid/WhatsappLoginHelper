@@ -1,0 +1,7 @@
+######## Yowsup Configuration file #####################
+## Actual config starts below ## NOTE:BASE FILE!
+
+cc=654654
+phone=
+id=
+Password=
